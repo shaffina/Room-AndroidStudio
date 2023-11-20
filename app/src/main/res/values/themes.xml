@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Room" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/army</item>
+    </style>
+
+    <style name="Theme.Room" parent="Base.Theme.Room" />
+</resources>
